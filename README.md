@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShiqiangXia&label=Profile%20views&color=0e75b6&style=flat" alt="ShiqiangXia" /> </p>
 
 
-<h1 align="left">Hi ✌🏼, I'm Shiqiang (Oliver) Xia</h1>
+<h1 align="center">Hi ✌🏼, I'm Shiqiang (Oliver) Xia</h1>
 
-<h3 align="left">Software Engineer ang Applied Mathematician</h3>
+<h3 align="center">Software Engineer ang Applied Mathematician</h3>
 
 
 
