@@ -6,8 +6,11 @@
 <h3 align="center">Software Engineer ang Applied Mathematician</h3>
 -->
 
+I am a fifth-year applied math PhD student and an aspiring software engineer at the University of Minnesota. 
 
-Check out my [personal website](https://sites.google.com/umn.edu/shiqiang-xia/home)
+<!---
+Check out my [person website here](https://sites.google.com/umn.edu/shiqiang-xia/home).
+-->
 
 
 <h3 align="left">Links:</h3>
