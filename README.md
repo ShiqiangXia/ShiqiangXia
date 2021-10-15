@@ -36,5 +36,6 @@ Check out my [person website here](https://sites.google.com/umn.edu/shiqiang-xia
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> 
 
 
-
+<!---
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Oliver_Xia2021&style=dark&fontGaramond&extension=null)
+-->
