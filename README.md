@@ -6,8 +6,9 @@
 <h3 align="center">Software Engineer ang Applied Mathematician</h3>
 -->
 
-I am a fifth-year applied math PhD student at the University of Minnesota and an aspiring software engineer.
+I am a fifth-year applied math Ph.D. student at the University of Minnesota. I also have a minor in computer science. My research background is on numerical methods for partial differential equations, numerical optimization, and scientific computing.
 
+I am also an aspiring **software engineer** and I am passionate about using my analytical skills and software developing skills to tackle real-world problems. 
 <!---
 Check out my [person website here](https://sites.google.com/umn.edu/shiqiang-xia/home).
 -->
