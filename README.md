@@ -17,7 +17,7 @@ Check out my [person website here](https://sites.google.com/umn.edu/shiqiang-xia
 <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shiqiangx/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/noahjpark" height="30" width="40" /></a>
-<a href="https://leetcode.com/Oliver_XIa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noahjpark" height="30" width="40" /></a>
+<a href="https://leetcode.com/Oliver_Xia2021/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noahjpark" height="30" width="40" /></a>
 <a href="https://www.instagram.com/swoliver_74kg/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noahjpark" height="30" width="40" /></a>
 
 </p>
