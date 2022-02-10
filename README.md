@@ -7,9 +7,9 @@
 -->
 
 I am a fifth-year applied math Ph.D. student at the University of Minnesota. I also have a minor in computer science. My research background is on numerical methods for partial differential equations, numerical optimization, and scientific computing.
-
-I am also an aspiring **software engineer** and I am passionate about using my analytical skills and software developing skills to tackle real-world problems. 
 <!---
+I am also an aspiring **software engineer** and I am passionate about using my analytical skills and software developing skills to tackle real-world problems. 
+
 Check out my [person website here](https://sites.google.com/umn.edu/shiqiang-xia/home).
 
 <a href="https://leetcode.com/Oliver_Xia2021/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noahjpark" height="30" width="40" /></a>
