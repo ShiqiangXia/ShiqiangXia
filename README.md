@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer ang Applied Mathematician</h3>
 -->
 
-I am a Research Scientist at [Meta](https://www.facebook.com/Meta/) (aka Facebook). I get Ph.D. degree in applied math at the University of Minnesota. My PhD research focuses on numerical methods for partial differential equations, numerical optimization, and scientific computing.
+I am a Research Scientist at [Meta](https://about.facebook.com/) (aka Facebook). I get Ph.D. degree in applied math at the University of Minnesota. My PhD research focuses on numerical methods for partial differential equations, numerical optimization, and scientific computing.
 <!---
 I am also an aspiring **software engineer** and I am passionate about using my analytical skills and software developing skills to tackle real-world problems. 
 
